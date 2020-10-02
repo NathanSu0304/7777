@@ -1,4 +1,3 @@
-CS171
 
 using generator to create maps
 \n cd bin
